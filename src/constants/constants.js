@@ -1,0 +1,4 @@
+export const DISABLE_INPUT = 'DISABLE_INPUT';
+export const DISABLE_WIFI = 'DISABLE_WIFI';
+export const VALIDATE_INPUT = 'VALIDATE_INPUT';
+export const VALIDATE_FORM = 'VALIDATE_FORM';

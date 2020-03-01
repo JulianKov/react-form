@@ -1,0 +1,20 @@
+.form-input {
+    box-sizing: border-box;
+    width: 340px;
+    height: 35px;
+    margin: 5px;
+    border: 1px solid #717171;
+    padding: 5px;
+}
+
+.input-required {
+    color: #f01f30;
+}
+
+.label-disabled {
+    opacity: .6;
+}
+
+.control-invalid {
+    background-color: rgba(240, 4, 0, 0.27);
+}
